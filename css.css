@@ -1,0 +1,14 @@
+body {
+    background-color: #111;
+    margin: 0px;
+}
+
+#fireworks {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: fixed;
+}
+
+
+/*By JoseMnel15*/
